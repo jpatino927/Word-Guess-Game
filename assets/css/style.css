@@ -1,1 +1,97 @@
+* {
+    box-sizing:border-box;
+    
+  }
+  
+  
+  body {
+      background: white;
+      color: black;
+      margin: 0px;
+      padding: 0px;
+      font-family: Georgia,"Times New Roman", Times, serif;
+      font-size: 16px;
+      line-height: 125%;
+      
+  }
+  
+  
+  #jpjumbotron {
+      background-color: black;
+      margin: 0;
+      margin-bottom: 0px;
+      padding: 0px 0;
+      font-size: 0px;
+      border-top-width: 0px;
+      
+  }
+  
+  
+  
+  
+  #jpatino { 
+      position: relative;
+      top: 8px;
+      left: -1px;  
+      border:20px solid whitesmoke;
+      background: whitesmoke;
+  }
+  
+  
 
+  
+  /* p {
+      float: left;
+      overflow: auto;
+      
+  }
+   */
+  
+  
+/*   
+  #hulk{
+      position: relative;
+      top: -20px;
+      float: auto;
+      width: 100%;
+
+  } */
+
+
+ 
+  
+  
+  
+  h1 {
+      color:whitesmoke;
+      background-color:black;
+      margin: 0;
+      margin-bottom: 20px;
+      text-align: center;
+      padding: 20px 0;
+      font-size: 28px;
+      font-style:courier;
+  }
+  
+  
+ 
+ .container {
+      display: flex; /* or inline-flex */
+      align-content: space-between;
+     
+     
+  }
+  
+  
+  
+  
+  
+  #footer {
+      position: relative;
+      top: -20px;
+   
+  
+  }
+  
+  
+ 
